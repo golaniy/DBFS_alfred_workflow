@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>personal_folder</key>
-	<string>dbfs:/FileStore/shared_uploads/yotam.golani@wiliot.com/</string>
+	<string>dbfs:/FileStore/shared_uploads/</string>
 </dict>
 </plist>
