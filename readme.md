@@ -8,11 +8,11 @@ Explore Databricks File System using Alfred
 
 - Install the databricks CLI in your local python enviornment by using `pip install databricks-cli`.
 - setup your databricks host path and databricks token inside the workflow's enviornment variables.
-![Databricks token](images/databricks_token.png)
+![Databricks token](Workflow/images/databricks_token.png)
 - add your preffred DBFS directory inside the workflow configuration.
 
 ## Usage
-![Extension Screenshot](images/screenshot.png)
+![Extension Screenshot](Workflow/images/screenshot.png)
 
 - Explore your host's DBFS by initiating keyword (default: `dbfs`).
 - Enter folders using <kbd>↩</kbd>.
